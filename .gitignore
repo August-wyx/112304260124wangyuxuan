@@ -18,8 +18,8 @@ venv/
 .idea/
 
 # 提交文件
-Submission.csv
-Submission_*.csv
+/Submission.csv
+/Submission_*.csv
 
 # 模型文件
 word2vec_model.model
