@@ -28,7 +28,7 @@
 - **提交日期**：2026-04-15
 
 - **GitHub 仓库地址**：https://github.com/August-wyx/112304260124wangyuxuan
-- **GitHub README 地址**：
+- **GitHub README 地址**：https://github.com/August-wyx/112304260124wangyuxuan/blob/main/README.md
 
 > 注意：GitHub 仓库首页或 README 页面中，必须能看到"姓名 + 学号"，否则无效。
 
