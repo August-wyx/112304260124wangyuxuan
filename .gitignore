@@ -26,5 +26,4 @@ word2vec_model.model
 model.pkl
 vectorizer.pkl
 
-# 结果文件
-results/*.csv
+

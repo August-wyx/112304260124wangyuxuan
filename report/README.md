@@ -143,6 +143,8 @@ words/
 │   └── unlabeledTrainData.tsv     # 无标注训练集（可选扩展数据）
 ├── images/                # 实验相关图片
 │   └── kaggle_score.png   # Kaggle提交结果截图
+├── results/               # 结果文件目录
+│   └── Submission.csv     # 情感分析预测结果（可提交Kaggle）
 ├── report/                # 实验报告目录
 │   └── README.md          # 实验报告主文档
 ├── .env.example           # 环境变量模板（公开，不含真实密钥）
