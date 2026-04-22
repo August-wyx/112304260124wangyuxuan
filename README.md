@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/26956589/README.md)
+
 # 机器学习实验：基于 Word2Vec 的情感预测
 
 ## 1. 学生信息
