@@ -1,0 +1,30 @@
+# 环境变量文件
+.env
+
+# Python编译文件
+__pycache__/
+*.pyc
+
+# 虚拟环境
+venv/
+.venv/
+
+# 其他临时文件
+*.tmp
+*.temp
+
+# IDE相关文件
+.vscode/
+.idea/
+
+# 提交文件
+Submission.csv
+Submission_*.csv
+
+# 模型文件
+word2vec_model.model
+model.pkl
+vectorizer.pkl
+
+# 结果文件
+results/*.csv
