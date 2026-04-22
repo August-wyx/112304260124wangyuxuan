@@ -131,6 +131,7 @@
 - `submission/`：存放提交文件
 
 **我的项目结构：**
+```
 words/
 ├── code/                  # 核心代码目录
 │   ├── main.py            # FastAPI应用（提供API接口）
@@ -147,3 +148,4 @@ words/
 ├── .env.example           # 环境变量模板（公开，不含真实密钥）
 ├── .gitignore             # Git忽略配置文件（指定不提交的文件/目录）
 └── requirements.txt       # 项目依赖清单（pip安装用）
+```
